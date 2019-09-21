@@ -1,0 +1,22 @@
+﻿  Source.c
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(76,9): warning C4013:  'login' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(87,9): warning C4013:  'getch' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(139,9): warning C4013:  'menu' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(411,29): warning C4013:  'check_availability_info' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(374,16): warning C4101:  'tm': unreferenced local variable
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(784,12): warning C4013:  'room_info' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013:  'common_facilities' undefined; assuming extern returning int
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(93) : warning C4715: 'start_menu': not all control paths return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(256) : warning C4716: 'register_user': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(193) : warning C4716: 'login': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(286) : warning C4716: 'check_cid': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(315) : warning C4716: 'check_cod': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(440) : warning C4716: 'room_booking': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(473) : warning C4716: 'view_current_booking': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(532) : warning C4716: 'cancel_booking': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(808) : warning C4716: 'check_availability_info': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(857) : warning C4716: 'check_room': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(901) : warning C4716: 'room_info': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(917) : warning C4716: 'common_facilities': must return a value
+F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(870,20): warning C4013: F:\icp - FINISHED\hotel_reservation\hotel_reservation\Source.c(1009) : warning C4716: 'menu': must return a value
+  hotel_reservation.vcxproj -> F:\icp - FINISHED\hotel_reservation\Debug\hotel_reservation.exe
